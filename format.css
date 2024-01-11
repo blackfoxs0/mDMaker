@@ -389,7 +389,8 @@ p{
     }
     .header-content h1{
         text-align: center;
-        padding: 75px;
+        padding: 65px;
+        font-size: 60px;
     }
 
     .coffee{
